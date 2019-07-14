@@ -1,0 +1,3008 @@
+{
+    "Chernobyl": {
+        "show_url": "https://www.imdb.com/title/tt7366338/",
+        "rating": 9.5,
+        "rating_count": 305517,
+        "genre": [
+            "Drama",
+            "History"
+        ],
+        "duration": "2019",
+        "type": "Mini",
+        "summary": "In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes."
+    },
+    "Planet Earth II": {
+        "show_url": "https://www.imdb.com/title/tt5491994/",
+        "rating": 9.5,
+        "rating_count": 76048,
+        "genre": [
+            "Documentary"
+        ],
+        "duration": "2016",
+        "type": "Mini",
+        "summary": "David Attenborough returns in this breathtaking documentary showcasing life on Planet Earth."
+    },
+    "Band of Brothers": {
+        "show_url": "https://www.imdb.com/title/tt0185906/",
+        "rating": 9.5,
+        "rating_count": 326977,
+        "genre": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "duration": "2001",
+        "type": "Mini",
+        "summary": "The story of Easy Company of the U.S. Army 101st Airborne Division, and their mission in World War II Europe, from Operation Overlord, through V-J Day."
+    },
+    "Planet Earth": {
+        "show_url": "https://www.imdb.com/title/tt0795176/",
+        "rating": 9.4,
+        "rating_count": 150438,
+        "genre": [
+            "Documentary"
+        ],
+        "duration": "2006",
+        "type": "Mini",
+        "summary": "Emmy Award-winning, 11 episodes, five years in the making, the most expensive nature documentary series ever commissioned by the BBC, and the first to be filmed in high definition."
+    },
+    "Breaking Bad": {
+        "show_url": "https://www.imdb.com/title/tt0903747/",
+        "rating": 9.5,
+        "rating_count": 1232167,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": "2008\u20132013",
+        "type": "Full",
+        "summary": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future."
+    },
+    "Game of Thrones": {
+        "show_url": "https://www.imdb.com/title/tt0944947/",
+        "rating": 9.4,
+        "rating_count": 1564601,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "duration": "2011\u20132019",
+        "type": "Full",
+        "summary": "Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years."
+    },
+    "The Wire": {
+        "show_url": "https://www.imdb.com/title/tt0306414/",
+        "rating": 9.3,
+        "rating_count": 248908,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": "2002\u20132008",
+        "type": "Full",
+        "summary": "Baltimore drug scene, seen through the eyes of drug dealers and law enforcement."
+    },
+    "Cosmos": {
+        "show_url": "https://www.imdb.com/title/tt0081846/",
+        "rating": 9.2,
+        "rating_count": 31954,
+        "genre": [
+            "Documentary"
+        ],
+        "duration": "1980",
+        "type": "Full",
+        "summary": "Astronomer Carl Sagan leads us on an engaging guided tour of the various elements and cosmological theories of the universe."
+    },
+    "Blue Planet II": {
+        "show_url": "https://www.imdb.com/title/tt6769208/",
+        "rating": 9.3,
+        "rating_count": 21475,
+        "genre": [
+            "Documentary"
+        ],
+        "duration": "2017\u20132018",
+        "type": "Mini",
+        "summary": "David Attenborough returns to the world's oceans in this sequel to the acclaimed documentary filming rare and unusual creatures of the deep, as well as documenting the problems our oceans face."
+    },
+    "Our Planet": {
+        "show_url": "https://www.imdb.com/title/tt9253866/",
+        "rating": 9.3,
+        "rating_count": 14280,
+        "genre": [
+            "Documentary"
+        ],
+        "duration": "2019",
+        "type": "Mini",
+        "summary": "Documentary series focusing on the breadth of the diversity of habitats around the world, from the remote Arctic wilderness and mysterious deep oceans to the vast landscapes of Africa and diverse jungles of South America."
+    },
+    "Rick and Morty": {
+        "show_url": "https://www.imdb.com/title/tt2861424/",
+        "rating": 9.3,
+        "rating_count": 280866,
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "duration": "2013\u2013 ",
+        "type": "Full",
+        "summary": "An animated series that follows the exploits of a super scientist and his not-so-bright grandson."
+    },
+    "The Sopranos": {
+        "show_url": "https://www.imdb.com/title/tt0141842/",
+        "rating": 9.2,
+        "rating_count": 256453,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "duration": "1999\u20132007",
+        "type": "Full",
+        "summary": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling."
+    },
+    "The World at War": {
+        "show_url": "https://www.imdb.com/title/tt0071075/",
+        "rating": 9.2,
+        "rating_count": 18851,
+        "genre": [
+            "Documentary",
+            "History",
+            "War"
+        ],
+        "duration": "1973\u20131976",
+        "type": "Full",
+        "summary": "A groundbreaking 26-part documentary series narrated by the actor Laurence Olivier about the deadliest conflict in history, World War II."
+    },
+    "Avatar: The Last Airbender": {
+        "show_url": "https://www.imdb.com/title/tt0417299/",
+        "rating": 9.2,
+        "rating_count": 193802,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "2005\u20132008",
+        "type": "Full",
+        "summary": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world."
+    },
+    "Life": {
+        "show_url": "https://www.imdb.com/title/tt1533395/",
+        "rating": 9.1,
+        "rating_count": 34524,
+        "genre": [
+            "Documentary"
+        ],
+        "duration": "2009",
+        "type": "Mini",
+        "summary": "David Attenborough's legendary BBC crew explains and shows wildlife all over planet earth in 10 episodes. The first is an overview the challenges facing life, the others are dedicated to ...See full summary\u00a0\u00bb"
+    },
+    "The Beatles Anthology": {
+        "show_url": "https://www.imdb.com/title/tt0111893/",
+        "rating": 9.3,
+        "rating_count": 5385,
+        "genre": [
+            "Documentary",
+            "Music"
+        ],
+        "duration": "1995\u2013 ",
+        "type": "Mini",
+        "summary": "An autobiographical documentary of the greatest of the rock bands."
+    },
+    "Sherlock": {
+        "show_url": "https://www.imdb.com/title/tt1475582/",
+        "rating": 9.1,
+        "rating_count": 715508,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "2010\u2013 ",
+        "type": "Full",
+        "summary": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London."
+    },
+    "The Vietnam War": {
+        "show_url": "https://www.imdb.com/title/tt1877514/",
+        "rating": 9.1,
+        "rating_count": 12504,
+        "genre": [
+            "Documentary",
+            "History",
+            "War"
+        ],
+        "duration": "2017",
+        "type": "Mini",
+        "summary": "A comprehensive history of the United States' involvement in the bitterly divisive armed conflict in Southeast Asia."
+    },
+    "The Twilight Zone": {
+        "show_url": "https://www.imdb.com/title/tt0052520/",
+        "rating": 9.0,
+        "rating_count": 62219,
+        "genre": [
+            "Fantasy",
+            "Horror",
+            "Mystery"
+        ],
+        "duration": "1959\u20131964",
+        "type": "Full",
+        "summary": "Ordinary people find themselves in extraordinarily astounding situations, which they each try to solve in a remarkable manner."
+    },
+    "Human Planet": {
+        "show_url": "https://www.imdb.com/title/tt1806234/",
+        "rating": 9.1,
+        "rating_count": 20972,
+        "genre": [
+            "Documentary"
+        ],
+        "duration": "2011",
+        "type": "Mini",
+        "summary": "Like all life forms, humanity partially adapts to types of natural environment, yet also tends to change them. Each episode examines how life differs for men and nature in some type of ...See full summary\u00a0\u00bb"
+    },
+    "Dekalog": {
+        "show_url": "https://www.imdb.com/title/tt0092337/",
+        "rating": 9.0,
+        "rating_count": 18660,
+        "genre": [
+            "Drama"
+        ],
+        "duration": "1989\u20131990",
+        "type": "Mini",
+        "summary": "Ten television drama films, each one based on one of the Ten Commandments."
+    },
+    "Hagane no renkinjutsushi": {
+        "show_url": "https://www.imdb.com/title/tt0421357/",
+        "rating": 8.6,
+        "rating_count": 55388,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "2003\u20132004",
+        "type": "Full",
+        "summary": "When a failed alchemical ritual leaves brothers Edward and Alphonse Elric with severely damaged bodies, they begin searching for the one thing that can save them; the fabled philosopher's stone."
+    },
+    "Firefly": {
+        "show_url": "https://www.imdb.com/title/tt0303461/",
+        "rating": 9.0,
+        "rating_count": 227387,
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "duration": "2002\u20132003",
+        "type": "Full",
+        "summary": "Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them."
+    },
+    "The Civil War": {
+        "show_url": "https://www.imdb.com/title/tt0098769/",
+        "rating": 9.1,
+        "rating_count": 11220,
+        "genre": [
+            "Documentary",
+            "History",
+            "War"
+        ],
+        "duration": "1990",
+        "type": "Mini",
+        "summary": "A comprehensive survey of the American Civil War."
+    },
+    "When They See Us": {
+        "show_url": "https://www.imdb.com/title/tt7137906/",
+        "rating": 9.1,
+        "rating_count": 31450,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "duration": "2019",
+        "type": "Mini",
+        "summary": "Five teens from Harlem become trapped in a nightmare when they're falsely accused of a brutal attack in Central Park. Based on the true story."
+    },
+    "True Detective": {
+        "show_url": "https://www.imdb.com/title/tt2356777/",
+        "rating": 9.0,
+        "rating_count": 447766,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "2014\u2013 ",
+        "type": "Full",
+        "summary": "Seasonal anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law."
+    },
+    "Fargo": {
+        "show_url": "https://www.imdb.com/title/tt2802850/",
+        "rating": 9.0,
+        "rating_count": 277002,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": "2014\u2013 ",
+        "type": "Full",
+        "summary": "Various chronicles of deception, intrigue and murder in and around frozen Minnesota. Yet all of these tales mysteriously lead back one way or another to Fargo, North Dakota."
+    },
+    "Batman: The Animated Series": {
+        "show_url": "https://www.imdb.com/title/tt0103359/",
+        "rating": 8.9,
+        "rating_count": 75892,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "1992\u20131995",
+        "type": "Full",
+        "summary": "The Dark Knight battles crime in Gotham City with occasional help from Robin and Batgirl."
+    },
+    "Death Note: Desu n\u00f4to": {
+        "show_url": "https://www.imdb.com/title/tt0877057/",
+        "rating": 9.0,
+        "rating_count": 188104,
+        "genre": [
+            "Animation",
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2006\u20132007",
+        "type": "Full",
+        "summary": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it."
+    },
+    "Last Week Tonight with John Oliver": {
+        "show_url": "https://www.imdb.com/title/tt3530232/",
+        "rating": 8.9,
+        "rating_count": 68652,
+        "genre": [
+            "Comedy",
+            "News",
+            "Talk-Show"
+        ],
+        "duration": "2014\u2013 ",
+        "type": "Full",
+        "summary": "Former Daily Show host and correspondent John Oliver brings his persona to this new weekly news satire program."
+    },
+    "The Blue Planet": {
+        "show_url": "https://www.imdb.com/title/tt0296310/",
+        "rating": 8.9,
+        "rating_count": 28539,
+        "genre": [
+            "Documentary"
+        ],
+        "duration": "2001",
+        "type": "Mini",
+        "summary": "Mammoth series, five years in the making, taking a look at the rich tapestry of life in the world's oceans."
+    },
+    "Kaub\u00f4i bibappu": {
+        "show_url": "https://www.imdb.com/title/tt0213338/",
+        "rating": 8.9,
+        "rating_count": 76398,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "1998\u20131999",
+        "type": "Full",
+        "summary": "The futuristic misadventures and tragedies of an easygoing bounty hunter and his partners."
+    },
+    "Black Mirror": {
+        "show_url": "https://www.imdb.com/title/tt2085059/",
+        "rating": 8.9,
+        "rating_count": 335716,
+        "genre": [
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "duration": "2011\u2013 ",
+        "type": "Full",
+        "summary": "An anthology series exploring a twisted, high-tech world where humanity's greatest innovations and darkest instincts collide."
+    },
+    "Frozen Planet": {
+        "show_url": "https://www.imdb.com/title/tt2092588/",
+        "rating": 8.9,
+        "rating_count": 22775,
+        "genre": [
+            "Documentary"
+        ],
+        "duration": "2011",
+        "type": "Mini",
+        "summary": "Focuses on life and the environment in both the Arctic and Antarctic."
+    },
+    "One Punch Man: Wanpanman": {
+        "show_url": "https://www.imdb.com/title/tt4508902/",
+        "rating": 8.9,
+        "rating_count": 87864,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "2015\u2013 ",
+        "type": "Full",
+        "summary": "The story of Saitama, a hero that does it just for fun & can defeat his enemies with a single punch."
+    },
+    "Monty Python's Flying Circus": {
+        "show_url": "https://www.imdb.com/title/tt0063929/",
+        "rating": 8.8,
+        "rating_count": 60381,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "1969\u20131974",
+        "type": "Full",
+        "summary": "The original surreal sketch comedy showcase for the Monty Python troupe."
+    },
+    "Friends": {
+        "show_url": "https://www.imdb.com/title/tt0108778/",
+        "rating": 8.9,
+        "rating_count": 685407,
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "duration": "1994\u20132004",
+        "type": "Full",
+        "summary": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan."
+    },
+    "Pride and Prejudice": {
+        "show_url": "https://www.imdb.com/title/tt0112130/",
+        "rating": 8.9,
+        "rating_count": 68450,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "duration": "1995",
+        "type": "Mini",
+        "summary": "While the arrival of wealthy gentlemen sends her marriage-minded mother into a frenzy, willful and opinionated Elizabeth Bennet matches wits with haughty Mr. Darcy."
+    },
+    "Africa": {
+        "show_url": "https://www.imdb.com/title/tt2571774/",
+        "rating": 8.9,
+        "rating_count": 11841,
+        "genre": [
+            "Documentary"
+        ],
+        "duration": "2013",
+        "type": "Mini",
+        "summary": "Africa, the world's wildest continent. David Attenborough takes us on an awe-inspiring journey through one of the most diverse places in the world. We visit deserts, savannas, and jungles and meet up with some of Africa's amazing wildlife."
+    },
+    "Only Fools and Horses....": {
+        "show_url": "https://www.imdb.com/title/tt0081912/",
+        "rating": 8.9,
+        "rating_count": 41327,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "1981\u20132003",
+        "type": "Full",
+        "summary": "Comedy that follows two brothers from London's rough Peckham estate as they wheel and deal through a number of dodgy deals as they search for the big score that'll make them millionaires."
+    },
+    "Das Boot": {
+        "show_url": "https://www.imdb.com/title/tt0081834/",
+        "rating": 8.9,
+        "rating_count": 22262,
+        "genre": [
+            "Drama",
+            "Thriller",
+            "War"
+        ],
+        "duration": "1985\u20131987",
+        "type": "Mini",
+        "summary": "A World War II German U-Boat crew have a terrifying patrol mission in the early days of the war."
+    },
+    "Seinfeld": {
+        "show_url": "https://www.imdb.com/title/tt0098904/",
+        "rating": 8.8,
+        "rating_count": 227303,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "1989\u20131998",
+        "type": "Full",
+        "summary": "The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends."
+    },
+    "Apocalypse: La 2\u00e8me guerre mondiale": {
+        "show_url": "https://www.imdb.com/title/tt1508238/",
+        "rating": 8.9,
+        "rating_count": 7078,
+        "genre": [
+            "Documentary",
+            "History",
+            "War"
+        ],
+        "duration": "2009",
+        "type": "Mini",
+        "summary": "Apocalypse: The Second World War(2009) is a six-part French documentary about the Second World War. The documentary is composed exclusively of actual footage of the war as filmed by war ...See full summary\u00a0\u00bb"
+    },
+    "Stranger Things": {
+        "show_url": "https://www.imdb.com/title/tt4574334/",
+        "rating": 8.9,
+        "rating_count": 623995,
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+        ],
+        "duration": "2016\u2013 ",
+        "type": "Full",
+        "summary": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back."
+    },
+    "Gravity Falls": {
+        "show_url": "https://www.imdb.com/title/tt1865718/",
+        "rating": 8.9,
+        "rating_count": 54513,
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "duration": "2012\u20132016",
+        "type": "Full",
+        "summary": "Twin siblings Dipper and Mabel Pines spend the summer at their uncle's tourist trap in the enigmatic town of Gravity Falls."
+    },
+    "Twin Peaks": {
+        "show_url": "https://www.imdb.com/title/tt4093826/",
+        "rating": 8.5,
+        "rating_count": 44171,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Fantasy"
+        ],
+        "duration": "2017",
+        "type": "Full",
+        "summary": "Picks up 25 years after the inhabitants of a quaint northwestern town are stunned when their homecoming queen is murdered."
+    },
+    "Arrested Development": {
+        "show_url": "https://www.imdb.com/title/tt0367279/",
+        "rating": 8.8,
+        "rating_count": 257503,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "2003\u2013 ",
+        "type": "Full",
+        "summary": "Level-headed son Michael Bluth takes over family affairs after his father is imprisoned. But the rest of his spoiled, dysfunctional family are making his job unbearable."
+    },
+    "Over the Garden Wall": {
+        "show_url": "https://www.imdb.com/title/tt3718778/",
+        "rating": 8.8,
+        "rating_count": 29253,
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "duration": "2014",
+        "type": "Mini",
+        "summary": "Two brothers find themselves lost in a mysterious land and try to find their way home."
+    },
+    "The Office": {
+        "show_url": "https://www.imdb.com/title/tt0290978/",
+        "rating": 8.5,
+        "rating_count": 87493,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2001\u20132003",
+        "type": "Full",
+        "summary": "The story of an office that faces closure when the company decides to downsize its branches. A documentary film crew follow staff and the manager David Brent as they continue their daily lives."
+    },
+    "Freaks and Geeks": {
+        "show_url": "https://www.imdb.com/title/tt0193676/",
+        "rating": 8.8,
+        "rating_count": 119614,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "1999\u20132000",
+        "type": "Full",
+        "summary": "A high school mathlete starts hanging out with a group of burnouts while her younger brother navigates his freshman year."
+    },
+    "Narcos": {
+        "show_url": "https://www.imdb.com/title/tt2707408/",
+        "rating": 8.8,
+        "rating_count": 299374,
+        "genre": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2015\u20132017",
+        "type": "Full",
+        "summary": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years."
+    },
+    "TVF Pitchers": {
+        "show_url": "https://www.imdb.com/title/tt4742876/",
+        "rating": 9.2,
+        "rating_count": 44868,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2015",
+        "type": "Mini",
+        "summary": "A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture."
+    },
+    "I, Claudius": {
+        "show_url": "https://www.imdb.com/title/tt0074006/",
+        "rating": 8.8,
+        "rating_count": 14342,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "duration": "1976",
+        "type": "Mini",
+        "summary": "The history of the Roman Empire as experienced by one of its rulers."
+    },
+    "Fawlty Towers": {
+        "show_url": "https://www.imdb.com/title/tt0072500/",
+        "rating": 8.8,
+        "rating_count": 76838,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "1975\u20131979",
+        "type": "Full",
+        "summary": "Hotel owner Basil Fawlty's incompetence, short fuse, and arrogance form a combination that ensures accidents and trouble are never far away."
+    },
+    "House of Cards": {
+        "show_url": "https://www.imdb.com/title/tt0098825/",
+        "rating": 8.5,
+        "rating_count": 12353,
+        "genre": [
+            "Drama"
+        ],
+        "duration": "1990",
+        "type": "Mini",
+        "summary": "The schemes of a ruthlessly ambitious British politician who will stop at nothing to get to the top."
+    },
+    "Peaky Blinders": {
+        "show_url": "https://www.imdb.com/title/tt2442560/",
+        "rating": 8.8,
+        "rating_count": 207775,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2013\u2013 ",
+        "type": "Full",
+        "summary": "A gangster family epic set in 1919 Birmingham, England; centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby."
+    },
+    "Blackadder Goes Forth": {
+        "show_url": "https://www.imdb.com/title/tt0096548/",
+        "rating": 8.8,
+        "rating_count": 43879,
+        "genre": [
+            "Comedy",
+            "War"
+        ],
+        "duration": "1989",
+        "type": "Full",
+        "summary": "Stuck in the middle of World War I, Captain Edmund Blackadder does his best to escape the banality of the war."
+    },
+    "Westworld": {
+        "show_url": "https://www.imdb.com/title/tt0475784/",
+        "rating": 8.8,
+        "rating_count": 353793,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "duration": "2016\u2013 ",
+        "type": "Full",
+        "summary": "Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence."
+    },
+    "Cobra Kai": {
+        "show_url": "https://www.imdb.com/title/tt7221388/",
+        "rating": 8.8,
+        "rating_count": 34300,
+        "genre": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2018\u2013 ",
+        "type": "Full",
+        "summary": "Decades after their 1984 All Valley Karate Tournament bout, a middle-aged Daniel LaRusso and Johnny Lawrence find themselves martial-arts rivals again."
+    },
+    "Rome": {
+        "show_url": "https://www.imdb.com/title/tt0384766/",
+        "rating": 8.8,
+        "rating_count": 141991,
+        "genre": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "duration": "2005\u20132007",
+        "type": "Full",
+        "summary": "A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the Roman Republic."
+    },
+    "Shingeki no kyojin": {
+        "show_url": "https://www.imdb.com/title/tt2560140/",
+        "rating": 8.8,
+        "rating_count": 124433,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "2013\u2013 ",
+        "type": "Full",
+        "summary": "After his hometown is destroyed and his mother is killed, young Eren Yeager vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction."
+    },
+    "It's Always Sunny in Philadelphia": {
+        "show_url": "https://www.imdb.com/title/tt0472954/",
+        "rating": 8.7,
+        "rating_count": 171812,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "2005\u2013 ",
+        "type": "Full",
+        "summary": "Five friends with big egos and slightly arrogant attitudes are the proprietors of an Irish pub in Philadelphia."
+    },
+    "Oz": {
+        "show_url": "https://www.imdb.com/title/tt0118421/",
+        "rating": 8.7,
+        "rating_count": 82125,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": "1997\u20132003",
+        "type": "Full",
+        "summary": "A series chronicling the daily activities of an unusual prison facility and its criminal inhabitants."
+    },
+    "The Simpsons": {
+        "show_url": "https://www.imdb.com/title/tt0096697/",
+        "rating": 8.7,
+        "rating_count": 335552,
+        "genre": [
+            "Animation",
+            "Comedy"
+        ],
+        "duration": "1989\u2013 ",
+        "type": "Full",
+        "summary": "The satiric adventures of a working-class family in the misfit city of Springfield."
+    },
+    "Sahsiyet": {
+        "show_url": "https://www.imdb.com/title/tt7920978/",
+        "rating": 8.9,
+        "rating_count": 14097,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "2018",
+        "type": "Mini",
+        "summary": "A man with diagnosis of Alzheimer's, decides to punish the criminals."
+    },
+    "Senke nad Balkanom": {
+        "show_url": "https://www.imdb.com/title/tt6108262/",
+        "rating": 9.1,
+        "rating_count": 5199,
+        "genre": [
+            "Crime",
+            "Thriller"
+        ],
+        "duration": "2017\u2013 ",
+        "type": "Full",
+        "summary": "A historical fiction drama and thriller set in the turbulent period of the late 1920s in the Balkans as a place where high politics, local interests, capital and crime all merge together."
+    },
+    "Justice League Unlimited": {
+        "show_url": "https://www.imdb.com/title/tt6025022/",
+        "rating": 8.8,
+        "rating_count": 6224,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "2004\u20132006",
+        "type": "Full",
+        "summary": "A continuation of the Justice League animated series finds the original members of the team joined in their battle against crime and evil by dozens of other heroes from the DC comics universe."
+    },
+    "Curb Your Enthusiasm": {
+        "show_url": "https://www.imdb.com/title/tt0264235/",
+        "rating": 8.7,
+        "rating_count": 86278,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "2000\u2013 ",
+        "type": "Full",
+        "summary": "The life and times of Larry David and the predicaments he gets himself into with his friends and complete strangers."
+    },
+    "South Park": {
+        "show_url": "https://www.imdb.com/title/tt0121955/",
+        "rating": 8.7,
+        "rating_count": 302608,
+        "genre": [
+            "Animation",
+            "Comedy"
+        ],
+        "duration": "1997\u2013 ",
+        "type": "Full",
+        "summary": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado."
+    },
+    "The West Wing": {
+        "show_url": "https://www.imdb.com/title/tt0200276/",
+        "rating": 8.7,
+        "rating_count": 56511,
+        "genre": [
+            "Drama"
+        ],
+        "duration": "1999\u20132006",
+        "type": "Full",
+        "summary": "Inside the lives of staffers in the West Wing of the White House."
+    },
+    "House M.D.": {
+        "show_url": "https://www.imdb.com/title/tt0412142/",
+        "rating": 8.7,
+        "rating_count": 378814,
+        "genre": [
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "2004\u20132012",
+        "type": "Full",
+        "summary": "An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits."
+    },
+    "Chappelle's Show": {
+        "show_url": "https://www.imdb.com/title/tt0353049/",
+        "rating": 8.7,
+        "rating_count": 47457,
+        "genre": [
+            "Comedy",
+            "Music"
+        ],
+        "duration": "2003\u20132006",
+        "type": "Full",
+        "summary": "Comedian Dave Chappelle hosts this sketch-comedy show that parodies many of the nuances of race and culture."
+    },
+    "Nathan for You": {
+        "show_url": "https://www.imdb.com/title/tt2297757/",
+        "rating": 8.7,
+        "rating_count": 14257,
+        "genre": [
+            "Documentary",
+            "Comedy"
+        ],
+        "duration": "2013\u20132017",
+        "type": "Full",
+        "summary": "Nathan Fielder uses his business degree and life experiences to help real small businesses turn a profit. But because of his unorthodox approach, Nathan's genuine efforts to do good often draw real people into an experience far beyond what they signed up for."
+    },
+    "The Marvelous Mrs. Maisel": {
+        "show_url": "https://www.imdb.com/title/tt5788792/",
+        "rating": 8.7,
+        "rating_count": 45298,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2017\u2013 ",
+        "type": "Full",
+        "summary": "A housewife in the 1950s decides to become a stand-up comic."
+    },
+    "Dragon Ball Z": {
+        "show_url": "https://www.imdb.com/title/tt0214341/",
+        "rating": 8.7,
+        "rating_count": 102572,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "1996\u20132003",
+        "type": "Full",
+        "summary": "After learning that he is from another planet, a warrior named Goku and his friends are prompted to defend it from an onslaught of extraterrestrial enemies."
+    },
+    "Deadwood": {
+        "show_url": "https://www.imdb.com/title/tt0348914/",
+        "rating": 8.7,
+        "rating_count": 85298,
+        "genre": [
+            "Crime",
+            "Drama",
+            "History"
+        ],
+        "duration": "2004\u20132006",
+        "type": "Full",
+        "summary": "A show set in the late 1800s, revolving around the characters of Deadwood, South Dakota; a town of deep corruption and crime."
+    },
+    "Dragon Ball Z: Doragon b\u00f4ru zetto": {
+        "show_url": "https://www.imdb.com/title/tt0121220/",
+        "rating": 8.7,
+        "rating_count": 58901,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "1989\u20131996",
+        "type": "Full",
+        "summary": "The adventures of Earth's martial arts defender Son Goku continue with a new family and the revelation of his alien origin. Now Goku and his allies must defend the planet from an onslaught of new extraterrestrial enemies."
+    },
+    "The Adventures of Sherlock Holmes": {
+        "show_url": "https://www.imdb.com/title/tt0086661/",
+        "rating": 8.7,
+        "rating_count": 17943,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "1984\u20131985",
+        "type": "Full",
+        "summary": "Sherlock Holmes and Dr Watson solve the mysteries of copper beeches, a Greek interpreter, the Norwood builder, a resident patient, the red-headed league, and one final problem."
+    },
+    "Steins;Gate": {
+        "show_url": "https://www.imdb.com/title/tt1910272/",
+        "rating": 8.7,
+        "rating_count": 33574,
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2011\u20132015",
+        "type": "Full",
+        "summary": "After discovering time travel, a university student and his colleagues must use their knowledge of it to stop an evil organization and their diabolical plans."
+    },
+    "Lonesome Dove": {
+        "show_url": "https://www.imdb.com/title/tt0096639/",
+        "rating": 8.7,
+        "rating_count": 18671,
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "duration": "1989",
+        "type": "Mini",
+        "summary": "Two former Texas Rangers renew their spirit of adventure as they and several other residents of a small Texas town join a cattle drive to the Montana Territory."
+    },
+    "Satyamev Jayate": {
+        "show_url": "https://www.imdb.com/title/tt2360717/",
+        "rating": 8.9,
+        "rating_count": 5276,
+        "genre": [
+            "Documentary",
+            "Talk-Show"
+        ],
+        "duration": "2012\u2013 ",
+        "type": "Full",
+        "summary": "Aamir Khan hosts and produces this documentary/talk-show that explores the social issues effecting modern India."
+    },
+    "The Jinx: The Life and Deaths of Robert Durst": {
+        "show_url": "https://www.imdb.com/title/tt4299972/",
+        "rating": 8.7,
+        "rating_count": 33689,
+        "genre": [
+            "Documentary",
+            "Crime"
+        ],
+        "duration": "2015",
+        "type": "Mini",
+        "summary": "Filmmaker Andrew Jarecki examines the complicated life of reclusive real estate icon Robert Durst, the key suspect in a series of unsolved crimes."
+    },
+    "Battlestar Galactica": {
+        "show_url": "https://www.imdb.com/title/tt0314979/",
+        "rating": 8.6,
+        "rating_count": 61827,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "duration": "2003",
+        "type": "Mini",
+        "summary": "Following the destruction of the Twelve Colonies of Kobol by the Cylons, a rag-tag fugitive fleet of the last remnants of mankind flees the pursuing Cylons while simultaneously searching for their true home: Earth."
+    },
+    "The Haunting of Hill House": {
+        "show_url": "https://www.imdb.com/title/tt6763664/",
+        "rating": 8.7,
+        "rating_count": 119399,
+        "genre": [
+            "Drama",
+            "Horror",
+            "Mystery"
+        ],
+        "duration": "2018\u2013 ",
+        "type": "Full",
+        "summary": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it."
+    },
+    "Better Call Saul": {
+        "show_url": "https://www.imdb.com/title/tt3032476/",
+        "rating": 8.7,
+        "rating_count": 252429,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2015\u2013 ",
+        "type": "Full",
+        "summary": "The trials and tribulations of criminal lawyer, Jimmy McGill, in the time leading up to establishing his strip-mall law office in Albuquerque, New Mexico."
+    },
+    "The Thick of It": {
+        "show_url": "https://www.imdb.com/title/tt0459159/",
+        "rating": 8.7,
+        "rating_count": 17636,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "2005\u20132012",
+        "type": "Full",
+        "summary": "Set in the corridors of power and spin, the Minister for Social Affairs, is continually harassed by Number 10's policy enforcer and dependent on his not-so-reliable team of civil servants."
+    },
+    "Six Feet Under": {
+        "show_url": "https://www.imdb.com/title/tt0248654/",
+        "rating": 8.7,
+        "rating_count": 111278,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2001\u20132005",
+        "type": "Full",
+        "summary": "A chronicle of the lives of a dysfunctional family who run an independent funeral home in Los Angeles."
+    },
+    "The Return of Sherlock Holmes": {
+        "show_url": "https://www.imdb.com/title/tt0090509/",
+        "rating": 8.7,
+        "rating_count": 9139,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "1986\u20131988",
+        "type": "Full",
+        "summary": "Sherlock Holmes and Dr Watson solve the mysteries of the devil's foot, Silver Blaze, Wisteria Lodge and the Bruce-Partington Plans."
+    },
+    "The Crown": {
+        "show_url": "https://www.imdb.com/title/tt4786824/",
+        "rating": 8.7,
+        "rating_count": 84283,
+        "genre": [
+            "Drama",
+            "History"
+        ],
+        "duration": "2016\u2013 ",
+        "type": "Full",
+        "summary": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century."
+    },
+    "The Memoirs of Sherlock Holmes": {
+        "show_url": "https://www.imdb.com/title/tt0108855/",
+        "rating": 8.7,
+        "rating_count": 6096,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "1994",
+        "type": "Mini",
+        "summary": "Holmes, his friend Watson (or his brother Mycroft) work to solve the mysteries of The Three Gables, The Dying Detective, The Golden Pince-Nez, The Red Circle, The Mazarin Stone, and The ...See full summary\u00a0\u00bb"
+    },
+    "The X Files": {
+        "show_url": "https://www.imdb.com/title/tt0106179/",
+        "rating": 8.7,
+        "rating_count": 184345,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "1993\u2013 ",
+        "type": "Full",
+        "summary": "Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts."
+    },
+    "The Shield": {
+        "show_url": "https://www.imdb.com/title/tt0286486/",
+        "rating": 8.7,
+        "rating_count": 66320,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": "2002\u20132008",
+        "type": "Full",
+        "summary": "Follows the lives and cases of a dirty Los Angeles Police Department cop and the unit under his command."
+    },
+    "Top Gear": {
+        "show_url": "https://www.imdb.com/title/tt1628033/",
+        "rating": 8.7,
+        "rating_count": 101473,
+        "genre": [
+            "Comedy",
+            "Talk-Show"
+        ],
+        "duration": "2002\u2013 ",
+        "type": "Full",
+        "summary": "The hosts talk about everything car-related. From new cars to how they're fueled, this show has it all."
+    },
+    "Downton Abbey": {
+        "show_url": "https://www.imdb.com/title/tt1606375/",
+        "rating": 8.7,
+        "rating_count": 143277,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "duration": "2010\u20132015",
+        "type": "Full",
+        "summary": "A chronicle of the lives of the British aristocratic Crawley family and their servants in the early 20th Century."
+    },
+    "Monster": {
+        "show_url": "https://www.imdb.com/title/tt0434706/",
+        "rating": 8.7,
+        "rating_count": 16422,
+        "genre": [
+            "Animation",
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2004\u20132010",
+        "type": "Full",
+        "summary": "A brilliant neurosurgeon living in Germany finds his life in utter turmoil after getting involved with a psychopath that was once a former patient."
+    },
+    "Dark": {
+        "show_url": "https://www.imdb.com/title/tt5753856/",
+        "rating": 8.7,
+        "rating_count": 123981,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "2017\u2013 ",
+        "type": "Full",
+        "summary": "A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families."
+    },
+    "Dexter": {
+        "show_url": "https://www.imdb.com/title/tt0773262/",
+        "rating": 8.7,
+        "rating_count": 601987,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "2006\u20132013",
+        "type": "Full",
+        "summary": "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers."
+    },
+    "Blackadder II": {
+        "show_url": "https://www.imdb.com/title/tt0088484/",
+        "rating": 8.6,
+        "rating_count": 39130,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "1986",
+        "type": "Full",
+        "summary": "In the Tudor court of Elizabeth I, Lord Edmund Blackadder strives to win Her Majesty's favour while attempting to avoid a grisly fate should he offend her."
+    },
+    "Young Justice": {
+        "show_url": "https://www.imdb.com/title/tt1641384/",
+        "rating": 8.7,
+        "rating_count": 27724,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "2010\u2013 ",
+        "type": "Full",
+        "summary": "Teenage superheroes strive to prove themselves as members of the Justice League."
+    },
+    "Archer": {
+        "show_url": "https://www.imdb.com/title/tt1486217/",
+        "rating": 8.6,
+        "rating_count": 124841,
+        "genre": [
+            "Animation",
+            "Action",
+            "Comedy"
+        ],
+        "duration": "2009\u2013 ",
+        "type": "Full",
+        "summary": "Covert black ops and espionage take a back seat to zany personalities and relationships between secret agents and drones."
+    },
+    "From the Earth to the Moon": {
+        "show_url": "https://www.imdb.com/title/tt0120570/",
+        "rating": 8.7,
+        "rating_count": 9674,
+        "genre": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "duration": "1998",
+        "type": "Mini",
+        "summary": "Dramatized portrayal of the Apollo manned space program."
+    },
+    "Bron/Broen": {
+        "show_url": "https://www.imdb.com/title/tt1733785/",
+        "rating": 8.7,
+        "rating_count": 49877,
+        "genre": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "duration": "2011\u20132018",
+        "type": "Full",
+        "summary": "When a body is found on the bridge between Denmark and Sweden, right on the border, Danish inspector Martin Rohde and Swedish Saga Nor\u00e9n have to share jurisdiction and work together to find the killer."
+    },
+    "The Grand Tour": {
+        "show_url": "https://www.imdb.com/title/tt5712554/",
+        "rating": 8.7,
+        "rating_count": 54888,
+        "genre": [
+            "Comedy",
+            "Talk-Show"
+        ],
+        "duration": "2016\u2013 ",
+        "type": "Full",
+        "summary": "Follow Jeremy, Richard, and James, as they embark on an adventure across the globe, driving new and exciting automobiles from manufacturers all over the world."
+    },
+    "Star Trek: The Next Generation": {
+        "show_url": "https://www.imdb.com/title/tt0092455/",
+        "rating": 8.6,
+        "rating_count": 87573,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Mystery"
+        ],
+        "duration": "1987\u20131994",
+        "type": "Full",
+        "summary": "Set almost 100 years after Captain Kirk's five-year mission, a new generation of Starfleet officers set off in the U.S.S. Enterprise-D on their own mission to go where no one has gone before."
+    },
+    "Love, Death & Robots": {
+        "show_url": "https://www.imdb.com/title/tt9561862/",
+        "rating": 8.6,
+        "rating_count": 59182,
+        "genre": [
+            "Animation",
+            "Short",
+            "Comedy"
+        ],
+        "duration": "2019\u2013 ",
+        "type": "Full",
+        "summary": "A collection of animated short stories that span various genres including science fiction, fantasy, horror and comedy."
+    },
+    "Daredevil": {
+        "show_url": "https://www.imdb.com/title/tt3322312/",
+        "rating": 8.7,
+        "rating_count": 331726,
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2015\u20132018",
+        "type": "Full",
+        "summary": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil."
+    },
+    "Parks and Recreation": {
+        "show_url": "https://www.imdb.com/title/tt1266020/",
+        "rating": 8.6,
+        "rating_count": 178748,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "2009\u20132015",
+        "type": "Full",
+        "summary": "The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place."
+    },
+    "This Is Us": {
+        "show_url": "https://www.imdb.com/title/tt5555260/",
+        "rating": 8.7,
+        "rating_count": 77832,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "duration": "2016\u2013 ",
+        "type": "Full",
+        "summary": "A heartwarming and emotional story about a unique set of triplets, their struggles, and their wonderful parents."
+    },
+    "Hunter x Hunter": {
+        "show_url": "https://www.imdb.com/title/tt2098220/",
+        "rating": 8.7,
+        "rating_count": 36264,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "2011\u20132014",
+        "type": "Full",
+        "summary": "Gon Freecss aspires to become a Hunter, an exceptional being capable of greatness. With his friends and his potential, he seeks for his father who left him when he was younger."
+    },
+    "Making a Murderer": {
+        "show_url": "https://www.imdb.com/title/tt5189670/",
+        "rating": 8.6,
+        "rating_count": 77824,
+        "genre": [
+            "Documentary",
+            "Crime"
+        ],
+        "duration": "2015\u2013 ",
+        "type": "Full",
+        "summary": "Filmed over a 10-year period, Steven Avery, a DNA exoneree who, while in the midst of exposing corruption in local law enforcement, finds himself the prime suspect in a grisly new crime."
+    },
+    "Atlanta": {
+        "show_url": "https://www.imdb.com/title/tt4288182/",
+        "rating": 8.6,
+        "rating_count": 40237,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "duration": "2016\u2013 ",
+        "type": "Full",
+        "summary": "Based in Atlanta, Earn and his cousin Alfred try to make their way in the world through the rap scene. Along the way they come face to face with social and economic issues touching on race, relationships, poverty, status, and parenthood."
+    },
+    "Blackadder the Third": {
+        "show_url": "https://www.imdb.com/title/tt0092324/",
+        "rating": 8.6,
+        "rating_count": 37439,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "1987",
+        "type": "Full",
+        "summary": "In the Regency era, Mr E. Blackadder serves as butler to the foppish numskull Prince George amidst the fads and crazes of the time."
+    },
+    "North & South": {
+        "show_url": "https://www.imdb.com/title/tt0417349/",
+        "rating": 8.7,
+        "rating_count": 27256,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "duration": "2004",
+        "type": "Mini",
+        "summary": "North and South is a four part adaptation of Elizabeth Gaskell's love story of Margaret Hale, a middle class southerner who is forced to move to the northern town of Milton."
+    },
+    "Sacred Games": {
+        "show_url": "https://www.imdb.com/title/tt6077448/",
+        "rating": 8.9,
+        "rating_count": 54979,
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2018\u2013 ",
+        "type": "Full",
+        "summary": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm."
+    },
+    "K\u00f4do giasu: Hangyaku no rur\u00fbshu": {
+        "show_url": "https://www.imdb.com/title/tt0994314/",
+        "rating": 8.6,
+        "rating_count": 41093,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "2006\u20132012",
+        "type": "Full",
+        "summary": "After being given a mysterious power to control others, an outcast prince becomes the masked leader of the rebellion against an all powerful empire"
+    },
+    "Mahabharat": {
+        "show_url": "https://www.imdb.com/title/tt0158417/",
+        "rating": 8.8,
+        "rating_count": 6451,
+        "genre": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "duration": "1988\u20131990",
+        "type": "Full",
+        "summary": "The epic story of the family feud between the noble Pandava princes and their scheming cousins, the Kaurava kings."
+    },
+    "Gomorra: La serie": {
+        "show_url": "https://www.imdb.com/title/tt2049116/",
+        "rating": 8.7,
+        "rating_count": 22959,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": "2014\u2013 ",
+        "type": "Full",
+        "summary": "Ciro disregards tradition in his attempt to become the next boss of his crime syndicate. The internal power struggle puts him and his entire family's life at risk."
+    },
+    "Mad Men": {
+        "show_url": "https://www.imdb.com/title/tt0804503/",
+        "rating": 8.6,
+        "rating_count": 182390,
+        "genre": [
+            "Drama"
+        ],
+        "duration": "2007\u20132015",
+        "type": "Full",
+        "summary": "A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper."
+    },
+    "Spaced": {
+        "show_url": "https://www.imdb.com/title/tt0187664/",
+        "rating": 8.6,
+        "rating_count": 46618,
+        "genre": [
+            "Action",
+            "Comedy"
+        ],
+        "duration": "1999\u20132001",
+        "type": "Full",
+        "summary": "Friends Tim and Daisy, 20-something North Londoners with uncertain futures, must pretend to be a couple to live in the only apartment they can afford."
+    },
+    "The Bugs Bunny Show": {
+        "show_url": "https://www.imdb.com/title/tt0053488/",
+        "rating": 8.6,
+        "rating_count": 28452,
+        "genre": [
+            "Animation",
+            "Comedy"
+        ],
+        "duration": "1960\u20131975",
+        "type": "Full",
+        "summary": "Bugs Bunny, the famous, Oscar-winning cartoon rabbit, hosts his first weekly television series, along with all his fellow Warner Brothers cartoon stars, including Daffy Duck, Porky Pig, ...See full summary\u00a0\u00bb"
+    },
+    "Long Way Round": {
+        "show_url": "https://www.imdb.com/title/tt0403778/",
+        "rating": 8.7,
+        "rating_count": 10885,
+        "genre": [
+            "Documentary",
+            "Adventure"
+        ],
+        "duration": "2004\u2013 ",
+        "type": "Mini",
+        "summary": "This documentary series follows actors Ewan McGregor and Charley Boorman on a motorcycle trip around the world. The two friends will travel through such places as Siberia, Kazakhstan, ...See full summary\u00a0\u00bb"
+    },
+    "Through the Wormhole": {
+        "show_url": "https://www.imdb.com/title/tt1513168/",
+        "rating": 8.6,
+        "rating_count": 15836,
+        "genre": [
+            "Documentary"
+        ],
+        "duration": "2010\u20132017",
+        "type": "Full",
+        "summary": "Hosted by Morgan Freeman, Through the Wormhole will explore the deepest mysteries of existence - the questions that have puzzled mankind for eternity. What are we made of? What was there ...See full summary\u00a0\u00bb"
+    },
+    "Shameless": {
+        "show_url": "https://www.imdb.com/title/tt1586680/",
+        "rating": 8.7,
+        "rating_count": 172061,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2011\u2013 ",
+        "type": "Full",
+        "summary": "A scrappy, fiercely loyal Chicago family makes no apologies."
+    },
+    "Rurouni Kenshin: Meiji Kenkaku Romantan: Tsuioku Hen": {
+        "show_url": "https://www.imdb.com/title/tt0203082/",
+        "rating": 8.6,
+        "rating_count": 11788,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "1999\u2013 ",
+        "type": "Mini",
+        "summary": "In the era of Japan's Meiji Restoration, an assassin regains his humanity."
+    },
+    "QI": {
+        "show_url": "https://www.imdb.com/title/tt0380136/",
+        "rating": 8.6,
+        "rating_count": 27776,
+        "genre": [
+            "Comedy",
+            "Game-Show"
+        ],
+        "duration": "2003\u2013 ",
+        "type": "Full",
+        "summary": "A comedy panel game in which being Quite Interesting is more important than being right. Sandi Toksvig is joined each week by four comedians to share anecdotes and trivia, and maybe answer some questions as well."
+    },
+    "Friday Night Lights": {
+        "show_url": "https://www.imdb.com/title/tt0758745/",
+        "rating": 8.7,
+        "rating_count": 51371,
+        "genre": [
+            "Drama",
+            "Sport"
+        ],
+        "duration": "2006\u20132011",
+        "type": "Full",
+        "summary": "In the small town of Dillon, Texas, one night matters: Friday Night. Eric Taylor has recently been hired as the head football coach for the Dillon High School Panthers, the town's pride and...See full summary\u00a0\u00bb"
+    },
+    "Doctor Who": {
+        "show_url": "https://www.imdb.com/title/tt0056751/",
+        "rating": 8.4,
+        "rating_count": 33164,
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Family"
+        ],
+        "duration": "1963\u20131989",
+        "type": "Full",
+        "summary": "The adventures in time and space of the Doctor, a Time Lord who changes appearance and personality by regenerating when near death, and is joined by companions in battles against aliens and other megalomaniacs."
+    },
+    "Mind Your Language": {
+        "show_url": "https://www.imdb.com/title/tt0075537/",
+        "rating": 8.7,
+        "rating_count": 5843,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "1977\u20131986",
+        "type": "Full",
+        "summary": "Jeremy Brown is a put-upon language teacher who tries to make a living by teaching English to immigrants. With pupils from India, France, China, and many other countries, his lessons do not...See full summary\u00a0\u00bb"
+    },
+    "Peep Show": {
+        "show_url": "https://www.imdb.com/title/tt0387764/",
+        "rating": 8.6,
+        "rating_count": 46270,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "2003\u20132015",
+        "type": "Full",
+        "summary": "Mark and Jez are a couple of twenty-something roommates who have nothing in common - except for the fact that their lives are anything but normal. Mayhem ensues as the pair strive to cope with day-to-day life."
+    },
+    "Line of Duty": {
+        "show_url": "https://www.imdb.com/title/tt2303687/",
+        "rating": 8.6,
+        "rating_count": 22059,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "2012\u2013 ",
+        "type": "Full",
+        "summary": "DS Steve Arnott is transferred to the police anti-corruption unit after the death of a man in a mistaken shooting during a counter-terrorist operation."
+    },
+    "Father Ted": {
+        "show_url": "https://www.imdb.com/title/tt0111958/",
+        "rating": 8.6,
+        "rating_count": 33200,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "1995\u20131998",
+        "type": "Full",
+        "summary": "Three misfit priests and their housekeeper live on Craggy Island, not the peaceful and quiet part of Ireland that it seems to be."
+    },
+    "Leyla ile Mecnun": {
+        "show_url": "https://www.imdb.com/title/tt1831164/",
+        "rating": 9.1,
+        "rating_count": 83607,
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2011\u20132014",
+        "type": "Full",
+        "summary": "Turkish television comedy series set in Istanbul, Leyla and Mecnun is a surreal and absurd comedy that revolves around the fictional love story between Leyla and Mecnun."
+    },
+    "MisteRogers' Neighborhood": {
+        "show_url": "https://www.imdb.com/title/tt0062588/",
+        "rating": 8.6,
+        "rating_count": 5482,
+        "genre": [
+            "Family",
+            "Fantasy",
+            "Music"
+        ],
+        "duration": "1968\u20132001",
+        "type": "Full",
+        "summary": "Fred Rogers explores various topics for young viewers through presentations and music, both in his world and in the Neighborhood of Make-Believe."
+    },
+    "Kota Factory": {
+        "show_url": "https://www.imdb.com/title/tt9432978/",
+        "rating": 9.3,
+        "rating_count": 13220,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2019\u2013 ",
+        "type": "Full",
+        "summary": "Dedicated to Shrimati SL Loney ji, Shri Irodov ji and Maanniya HC Verma ji, 'Kota Factory' is TVF's latest original. India's first 'Black and White' show highlights the problems present day IIT-JEE aspirants face in their day-to-day lives."
+    },
+    "Skam": {
+        "show_url": "https://www.imdb.com/title/tt5288312/",
+        "rating": 8.7,
+        "rating_count": 23695,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "duration": "2015\u20132017",
+        "type": "Full",
+        "summary": "The story of young teenagers and pupils on Hartvig Nissens upper secondary school in Oslo, and their troubles, scandals and everyday life. Each season is told from a different person's point of view."
+    },
+    "Justice League": {
+        "show_url": "https://www.imdb.com/title/tt0275137/",
+        "rating": 8.6,
+        "rating_count": 36904,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "2001\u20132004",
+        "type": "Full",
+        "summary": "Seven of the most formidable heroes form arguably the most powerful team ever."
+    },
+    "The Newsroom": {
+        "show_url": "https://www.imdb.com/title/tt1870479/",
+        "rating": 8.6,
+        "rating_count": 96379,
+        "genre": [
+            "Drama"
+        ],
+        "duration": "2012\u20132014",
+        "type": "Full",
+        "summary": "A newsroom undergoes some changes in its workings and morals as a new team is brought in, bringing unexpected results for its existing news anchor."
+    },
+    "Justified": {
+        "show_url": "https://www.imdb.com/title/tt1489428/",
+        "rating": 8.6,
+        "rating_count": 77626,
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2010\u20132015",
+        "type": "Full",
+        "summary": "Old-school U.S. Marshal Raylan Givens is reassigned from Miami to his childhood home in the poor, rural coal mining towns in eastern Kentucky."
+    },
+    "Flight of the Conchords": {
+        "show_url": "https://www.imdb.com/title/tt0863046/",
+        "rating": 8.6,
+        "rating_count": 51159,
+        "genre": [
+            "Comedy",
+            "Music",
+            "Musical"
+        ],
+        "duration": "2007\u20132009",
+        "type": "Full",
+        "summary": "Bret and Jemaine are Flight of the Conchords, a folk-rock band from New Zealand living in New York City in search of stardom."
+    },
+    "Yes Minister": {
+        "show_url": "https://www.imdb.com/title/tt0080306/",
+        "rating": 8.6,
+        "rating_count": 10840,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "1980\u20131984",
+        "type": "Full",
+        "summary": "The Right Honorable James Hacker has landed the plum job of Cabinet Minister to the Department of Administration. At last he is in a position of power and can carry out some long-needed reforms, or so he thinks."
+    },
+    "Shin Seiki Evangerion": {
+        "show_url": "https://www.imdb.com/title/tt0112159/",
+        "rating": 8.6,
+        "rating_count": 38404,
+        "genre": [
+            "Animation",
+            "Action",
+            "Drama"
+        ],
+        "duration": "1995\u20131996",
+        "type": "Full",
+        "summary": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father."
+    },
+    "Chef's Table": {
+        "show_url": "https://www.imdb.com/title/tt4295140/",
+        "rating": 8.6,
+        "rating_count": 10753,
+        "genre": [
+            "Documentary"
+        ],
+        "duration": "2015\u2013 ",
+        "type": "Full",
+        "summary": "Chef's Table goes inside the lives and kitchens of six of the world's most renowned international chefs. Each episode focuses on a single chef and their unique look at their lives, talents and passion from their piece of culinary heaven."
+    },
+    "Big Little Lies": {
+        "show_url": "https://www.imdb.com/title/tt3920596/",
+        "rating": 8.6,
+        "rating_count": 112812,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "2017\u2013 ",
+        "type": "Full",
+        "summary": "The apparently perfect lives of upper-class mothers, at a prestigious elementary school, unravel to the point of murder when a single-mother moves to their quaint Californian beach town."
+    },
+    "Generation Kill": {
+        "show_url": "https://www.imdb.com/title/tt0995832/",
+        "rating": 8.6,
+        "rating_count": 43288,
+        "genre": [
+            "Drama",
+            "War"
+        ],
+        "duration": "2008",
+        "type": "Mini",
+        "summary": "A Rolling Stone reporter, embedded with The 1st Recon Marines chronicles his experiences during the first wave of the American-led assault on Baghdad in 2003."
+    },
+    "Seinto Seiya": {
+        "show_url": "https://www.imdb.com/title/tt0161952/",
+        "rating": 8.6,
+        "rating_count": 8019,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "1986\u20131989",
+        "type": "Full",
+        "summary": "A group a young warriors known as 'Saints', each in possession of a 'cloth' guarded by a different constellation, must protect the reincarnation of the goddess Athena as she attempts to keep the Earth from being destroyed by evil forces."
+    },
+    "Poirot": {
+        "show_url": "https://www.imdb.com/title/tt0094525/",
+        "rating": 8.6,
+        "rating_count": 33409,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "1989\u20132013",
+        "type": "Full",
+        "summary": "The cases of eccentric but sharp Belgian detective Hercule Poirot."
+    },
+    "Fleabag": {
+        "show_url": "https://www.imdb.com/title/tt5687612/",
+        "rating": 8.6,
+        "rating_count": 25830,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2016\u2013 ",
+        "type": "Full",
+        "summary": "A comedy series adapted from the award-winning play about a young woman trying to cope with life in London whilst coming to terms with a recent tragedy."
+    },
+    "The Defiant Ones": {
+        "show_url": "https://www.imdb.com/title/tt6958022/",
+        "rating": 8.6,
+        "rating_count": 9049,
+        "genre": [
+            "Documentary",
+            "Biography",
+            "Crime"
+        ],
+        "duration": "2017",
+        "type": "Mini",
+        "summary": "\"The Defiant Ones\" examines the partnership between Jimmy Iovine and Dr. Dre - one the son of a Brooklyn longshoreman, the other straight out of Compton - and their leading roles in a chain of transformative events in contemporary culture."
+    },
+    "Boardwalk Empire": {
+        "show_url": "https://www.imdb.com/title/tt0979432/",
+        "rating": 8.6,
+        "rating_count": 160575,
+        "genre": [
+            "Crime",
+            "Drama",
+            "History"
+        ],
+        "duration": "2010\u20132014",
+        "type": "Full",
+        "summary": "An Atlantic City, New Jersey politician plays both sides of the law, conspiring with gangsters during the Prohibition era."
+    },
+    "Brass Eye": {
+        "show_url": "https://www.imdb.com/title/tt0118273/",
+        "rating": 8.6,
+        "rating_count": 8698,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "1997\u20132001",
+        "type": "Full",
+        "summary": "Controversal spoof of current affairs television, and the role of celebrity in the UK."
+    },
+    "Kenp\u00fb denki beruseruku": {
+        "show_url": "https://www.imdb.com/title/tt0318871/",
+        "rating": 8.5,
+        "rating_count": 24074,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "1997\u20131998",
+        "type": "Full",
+        "summary": "Guts is a skilled swordsman who joins forces with a mercenary group named 'The Band of the Hawk', lead by the charismatic Griffith, and fights with them as they battle their way into the royal court."
+    },
+    "Adventure Time with Finn & Jake": {
+        "show_url": "https://www.imdb.com/title/tt1305826/",
+        "rating": 8.6,
+        "rating_count": 66548,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "2010\u20132018",
+        "type": "Full",
+        "summary": "A 12-year-old boy and his best friend, wise 28-year-old dog with magical powers, go on a series of surreal adventures with each other."
+    },
+    "John Adams": {
+        "show_url": "https://www.imdb.com/title/tt0472027/",
+        "rating": 8.6,
+        "rating_count": 25236,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "duration": "2008",
+        "type": "Mini",
+        "summary": "The life of one of the USA's Founding Fathers, its second President, and his role in the nation's first 50 years."
+    },
+    "The Eric Andre Show": {
+        "show_url": "https://www.imdb.com/title/tt2244495/",
+        "rating": 8.6,
+        "rating_count": 9270,
+        "genre": [
+            "Comedy",
+            "Talk-Show"
+        ],
+        "duration": "2012\u2013 ",
+        "type": "Full",
+        "summary": "Eric Andre tries to host a talk show in a bizarre environment, where he is sometimes the player of pranks and sometimes the victim."
+    },
+    "Mystery Science Theater 3000": {
+        "show_url": "https://www.imdb.com/title/tt0094517/",
+        "rating": 8.5,
+        "rating_count": 21930,
+        "genre": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "duration": "1988\u20131999",
+        "type": "Full",
+        "summary": "In the not-too-distant future Joel Robinson is held captive by Dr. Forrester and TV's Frank, forced to watch B-Grade movies on the Satellite of Love with the help of his robot friends: Cambot, Gypsy, Tom Servo and Crow T. Robot."
+    },
+    "Yes, Prime Minister": {
+        "show_url": "https://www.imdb.com/title/tt0086831/",
+        "rating": 8.6,
+        "rating_count": 8213,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "1986\u20131987",
+        "type": "Full",
+        "summary": "James Hacker was propelled along the corridors of power to the very pinnacle of politics - Number 10."
+    },
+    "The Night Of": {
+        "show_url": "https://www.imdb.com/title/tt2401256/",
+        "rating": 8.5,
+        "rating_count": 100532,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2016",
+        "type": "Mini",
+        "summary": "After a night of partying with a woman he picked up, a man wakes up to find her stabbed to death and is charged with her murder."
+    },
+    "Alfred Hitchcock Presents": {
+        "show_url": "https://www.imdb.com/title/tt0047708/",
+        "rating": 8.5,
+        "rating_count": 13181,
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "duration": "1955\u20131962",
+        "type": "Full",
+        "summary": "Series of unrelated short stories covering elements of crime, horror, drama, and comedy about people of different backgrounds committing murders, suicides, thefts, and other sorts of crime caused by certain motivations, perceived or not."
+    },
+    "Louie": {
+        "show_url": "https://www.imdb.com/title/tt1492966/",
+        "rating": 8.5,
+        "rating_count": 70862,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2010\u20132015",
+        "type": "Full",
+        "summary": "The life of Louie C.K., a divorced comedian living in New York with two kids."
+    },
+    "Coupling": {
+        "show_url": "https://www.imdb.com/title/tt0237123/",
+        "rating": 8.6,
+        "rating_count": 40383,
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "duration": "2000\u20132004",
+        "type": "Full",
+        "summary": "Six best friends talk about all aspects of sex and relationships on their never-ending quest to find true love."
+    },
+    "Samurai chanpur\u00fb": {
+        "show_url": "https://www.imdb.com/title/tt0423731/",
+        "rating": 8.5,
+        "rating_count": 34866,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "2004\u20132005",
+        "type": "Full",
+        "summary": "Fuu, a waitress who works in a teahouse, rescues two master swordsmen, Mugen and Jin, from their execution to help her find the \"samurai who smells of sunflowers.\""
+    },
+    "Homicide: Life on the Street": {
+        "show_url": "https://www.imdb.com/title/tt0106028/",
+        "rating": 8.6,
+        "rating_count": 10629,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "1993\u20131999",
+        "type": "Full",
+        "summary": "A police homicide investigation unit investigates violent crimes in the city of Baltimore."
+    },
+    "The Punisher": {
+        "show_url": "https://www.imdb.com/title/tt5675620/",
+        "rating": 8.6,
+        "rating_count": 151697,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "duration": "2017\u20132019",
+        "type": "Full",
+        "summary": "After the murder of his family, Marine veteran Frank Castle becomes the vigilante known as \"The Punisher,\" with only one goal in mind: to avenge them."
+    },
+    "Dragon Ball": {
+        "show_url": "https://www.imdb.com/title/tt0280249/",
+        "rating": 8.5,
+        "rating_count": 47464,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "1986\u20132003",
+        "type": "Full",
+        "summary": "Dragon Ball tells the tale of a young warrior by the name of Son Goku, a young peculiar boy with a tail who embarks on a quest to become stronger and learns of the Dragon Balls, when, once all 7 are gathered, grant any wish of choice."
+    },
+    "The IT Crowd": {
+        "show_url": "https://www.imdb.com/title/tt0487831/",
+        "rating": 8.5,
+        "rating_count": 118898,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "2006\u20132013",
+        "type": "Full",
+        "summary": "The comedic misadventures of Roy, Moss and their grifting supervisor Jen, a rag-tag team of IT support workers at a large corporation headed by a hotheaded yuppie."
+    },
+    "Dragon Ball: Doragon b\u00f4ru": {
+        "show_url": "https://www.imdb.com/title/tt0088509/",
+        "rating": 8.5,
+        "rating_count": 41311,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "1986\u20131989",
+        "type": "Full",
+        "summary": "Son Gok\u00fb, a fighter with a monkey tail, goes on a quest with an assortment of odd characters in search of the Dragon Balls, a set of crystals that can give its bearer anything they desire."
+    },
+    "Mindhunter": {
+        "show_url": "https://www.imdb.com/title/tt5290382/",
+        "rating": 8.5,
+        "rating_count": 123583,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": "2017\u2013 ",
+        "type": "Full",
+        "summary": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases."
+    },
+    "Mr. Bean": {
+        "show_url": "https://www.imdb.com/title/tt0096657/",
+        "rating": 8.5,
+        "rating_count": 89260,
+        "genre": [
+            "Comedy",
+            "Family"
+        ],
+        "duration": "1990\u20131995",
+        "type": "Full",
+        "summary": "Bumbling, childlike Mr. Bean has trouble completing the simplest of tasks in day-to-day life, but his perseverance and resourcefulness frequently allow him to find ingenious ways around problems."
+    },
+    "The Untold History of the United States": {
+        "show_url": "https://www.imdb.com/title/tt1494191/",
+        "rating": 8.6,
+        "rating_count": 6995,
+        "genre": [
+            "Documentary",
+            "History",
+            "War"
+        ],
+        "duration": "2012\u20132013",
+        "type": "Full",
+        "summary": "Oliver Stone's re-examination of under-reported events in American history."
+    },
+    "Feud": {
+        "show_url": "https://www.imdb.com/title/tt1984119/",
+        "rating": 8.6,
+        "rating_count": 14373,
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "duration": "2017\u2013 ",
+        "type": "Full",
+        "summary": "Planned anthology series centering on famous feuds, including Bette Davis and Joan Crawford that is discontinued at the moment."
+    },
+    "Silicon Valley": {
+        "show_url": "https://www.imdb.com/title/tt2575988/",
+        "rating": 8.5,
+        "rating_count": 104596,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "2014\u2013 ",
+        "type": "Full",
+        "summary": "Follows the struggle of Richard Hendricks, a Silicon Valley engineer trying to build his own company called Pied Piper."
+    },
+    "Dr. Horrible's Sing-Along Blog": {
+        "show_url": "https://www.imdb.com/title/tt1227926/",
+        "rating": 8.6,
+        "rating_count": 39905,
+        "genre": [
+            "Comedy",
+            "Musical",
+            "Sci-Fi"
+        ],
+        "duration": "2008",
+        "type": "Mini",
+        "summary": "An aspiring supervillain must balance his career and his pursuit of a beautiful do-gooder."
+    },
+    "BoJack Horseman": {
+        "show_url": "https://www.imdb.com/title/tt3398228/",
+        "rating": 8.5,
+        "rating_count": 71838,
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2014\u2013 ",
+        "type": "Full",
+        "summary": "BoJack Horseman was the star of the hit TV show \"Horsin' Around\" in the '90s, now he's washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters."
+    },
+    "Formula 1: Drive to Survive": {
+        "show_url": "https://www.imdb.com/title/tt8289930/",
+        "rating": 8.6,
+        "rating_count": 6487,
+        "genre": [
+            "Documentary",
+            "Sport"
+        ],
+        "duration": "2019\u2013 ",
+        "type": "Mini",
+        "summary": "Docuseries following the 2018 FIA Formula One World Championship."
+    },
+    "Whose Line Is It Anyway?": {
+        "show_url": "https://www.imdb.com/title/tt0163507/",
+        "rating": 8.5,
+        "rating_count": 37636,
+        "genre": [
+            "Comedy",
+            "Game-Show"
+        ],
+        "duration": "1998\u20132007",
+        "type": "Full",
+        "summary": "Improvisational comedy competition show in which four members of the regular cast as comedians and often with guest appearances with other comedians and celebrities and members of the audience perform various comic games and sketches."
+    },
+    "Vikings": {
+        "show_url": "https://www.imdb.com/title/tt2306299/",
+        "rating": 8.6,
+        "rating_count": 346728,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "duration": "2013\u2013 ",
+        "type": "Full",
+        "summary": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean."
+    },
+    "Impractical Jokers": {
+        "show_url": "https://www.imdb.com/title/tt2100976/",
+        "rating": 8.6,
+        "rating_count": 28346,
+        "genre": [
+            "Comedy",
+            "Reality-TV"
+        ],
+        "duration": "2011\u2013 ",
+        "type": "Full",
+        "summary": "Q, Sal, Joe and Murr are real-life best friends who love challenging each other to the most outrageous dares and stunts ever caught on hidden camera."
+    },
+    "The New Batman Adventures": {
+        "show_url": "https://www.imdb.com/title/tt0118266/",
+        "rating": 8.5,
+        "rating_count": 12089,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "1997\u20131999",
+        "type": "Full",
+        "summary": "The further and darker adventures of Batman with a new Robin, a closer association with Batgirl and the previous Robin now as Nightwing."
+    },
+    "Brideshead Revisited": {
+        "show_url": "https://www.imdb.com/title/tt0083390/",
+        "rating": 8.6,
+        "rating_count": 6016,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "duration": "1981",
+        "type": "Mini",
+        "summary": "Two young men meet at Oxford. Charles Ryder, though of no family or money, becomes friends with Sebastian Flyte when Sebastian throws up in his college room through an open window. He then ...See full summary\u00a0\u00bb"
+    },
+    "Hannibal": {
+        "show_url": "https://www.imdb.com/title/tt2243973/",
+        "rating": 8.5,
+        "rating_count": 204056,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Horror"
+        ],
+        "duration": "2013\u20132015",
+        "type": "Full",
+        "summary": "Explores the early relationship between the renowned psychiatrist and his patient, a young FBI criminal profiler, who is haunted by his ability to empathize with serial killers."
+    },
+    "Black Books": {
+        "show_url": "https://www.imdb.com/title/tt0262150/",
+        "rating": 8.5,
+        "rating_count": 49759,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "2000\u20132004",
+        "type": "Full",
+        "summary": "Bernard Black runs a book shop, though his customer service skills leave something to be desired. He hires Manny as an employee. Fran runs the shop next door. Between the three of them many adventures ensue."
+    },
+    "Yeh Meri Family": {
+        "show_url": "https://www.imdb.com/title/tt8595766/",
+        "rating": 9.4,
+        "rating_count": 15529,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "duration": "2018\u2013 ",
+        "type": "Full",
+        "summary": "Set in the summer of 1998 it is a story about conflicting emotions towards family members from the eyes of a twelve year old."
+    },
+    "Mr. Robot": {
+        "show_url": "https://www.imdb.com/title/tt4158110/",
+        "rating": 8.5,
+        "rating_count": 280293,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": "2015\u2013 ",
+        "type": "Full",
+        "summary": "Elliot, a brilliant but highly unstable young cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global dominance when he and his shadowy allies try to take down the corrupt corporation he works for."
+    },
+    "Endeavour": {
+        "show_url": "https://www.imdb.com/title/tt2701582/",
+        "rating": 8.6,
+        "rating_count": 14560,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "2012\u2013 ",
+        "type": "Full",
+        "summary": "Set in the 1960s, the show follows Endeavour Morse in his early years as a police constable. Working alongside his senior partner DI Fred Thursday, Morse engages in a number of investigations around Oxford."
+    },
+    "Boku dake ga inai machi": {
+        "show_url": "https://www.imdb.com/title/tt5249462/",
+        "rating": 8.5,
+        "rating_count": 17204,
+        "genre": [
+            "Animation",
+            "Drama",
+            "Fantasy"
+        ],
+        "duration": "2016",
+        "type": "Full",
+        "summary": "29 year old Satoru Fujinuma is sent back in time 18 years to prevent the events leading to his mother's death, which began with a series of kidnappings in his 5th grade year."
+    },
+    "Spartacus: Gods of the Arena": {
+        "show_url": "https://www.imdb.com/title/tt1758429/",
+        "rating": 8.5,
+        "rating_count": 116145,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Biography"
+        ],
+        "duration": "2011",
+        "type": "Mini",
+        "summary": "In the time before the arrival of Spartacus, the House of Batiatus faces many challenges from competitors, and within its own household."
+    },
+    "Horace and Pete": {
+        "show_url": "https://www.imdb.com/title/tt5425186/",
+        "rating": 8.5,
+        "rating_count": 13165,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2016",
+        "type": "Full",
+        "summary": "Louis C.K.'s Eugene O'Neill-esque dramedic web series about two brothers, introverted Horace and mentally ill Pete, the current owners of their family's Irish bar \"Horace and Pete's\", and their dysfunctional family and friends."
+    },
+    "Sseulsseulhago Chalranhashin: Dokkaebi": {
+        "show_url": "https://www.imdb.com/title/tt5994364/",
+        "rating": 8.7,
+        "rating_count": 6019,
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "duration": "2016\u20132017",
+        "type": "Full",
+        "summary": "Dokkaebi (Gong Yoo) needs a human bride to end his immortal life. Meanwhile, the Angel of Death has amnesia. Somehow these two meet and live together. They see off those who have passed away and are now leaving this world."
+    },
+    "La Casa de Papel": {
+        "show_url": "https://www.imdb.com/title/tt6468322/",
+        "rating": 8.6,
+        "rating_count": 134372,
+        "genre": [
+            "Action",
+            "Crime",
+            "Mystery"
+        ],
+        "duration": "2017\u2013 ",
+        "type": "Full",
+        "summary": "A group of very peculiar robbers assault the Factory of Moneda and Timbre to carry out the most perfect robbery in the history of Spain and take home 2.4 billion euros."
+    },
+    "Umbre": {
+        "show_url": "https://www.imdb.com/title/tt4269716/",
+        "rating": 8.8,
+        "rating_count": 5962,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": "2014\u2013 ",
+        "type": "Full",
+        "summary": "Relu is a family man. He has two children, a wife, and a double life. Seen through the eyes of his family, Relu Oncescu appears to be an ordinary taxi driver. No one suspects that Relu ...See full summary\u00a0\u00bb"
+    },
+    "Luther": {
+        "show_url": "https://www.imdb.com/title/tt1474684/",
+        "rating": 8.5,
+        "rating_count": 107052,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "2010\u2013 ",
+        "type": "Full",
+        "summary": "DCI John Luther is a near-genius murder detective whose brilliant mind can't always save him from the dangerous violence of his passions."
+    },
+    "Sons of Anarchy": {
+        "show_url": "https://www.imdb.com/title/tt1124373/",
+        "rating": 8.6,
+        "rating_count": 232189,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": "2008\u20132014",
+        "type": "Full",
+        "summary": "A biker struggles to balance being a father and being involved in an outlaw motorcycle club."
+    },
+    "The Prisoner": {
+        "show_url": "https://www.imdb.com/title/tt0061287/",
+        "rating": 8.5,
+        "rating_count": 11393,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "duration": "1967\u20131968",
+        "type": "Full",
+        "summary": "After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape."
+    },
+    "The Handmaid's Tale": {
+        "show_url": "https://www.imdb.com/title/tt5834204/",
+        "rating": 8.5,
+        "rating_count": 125493,
+        "genre": [
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "duration": "2017\u2013 ",
+        "type": "Full",
+        "summary": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship."
+    },
+    "Futurama": {
+        "show_url": "https://www.imdb.com/title/tt0149460/",
+        "rating": 8.5,
+        "rating_count": 196998,
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "duration": "1999\u20132013",
+        "type": "Full",
+        "summary": "Philip J. Fry, a pizza guy, is accidentally frozen in 1999 and thawed out New Year's Eve 2999."
+    },
+    "Masum": {
+        "show_url": "https://www.imdb.com/title/tt6478318/",
+        "rating": 8.7,
+        "rating_count": 8674,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "2017",
+        "type": "Mini",
+        "summary": "Cevdet (Haluk Bilginer), a retired commissioner, and his wife spend their pensions in peace on a farm away from the city. Suddenly the life of the family is destroyed by the sudden arrival of a terrible news from the little son."
+    },
+    "Tinker Tailor Soldier Spy": {
+        "show_url": "https://www.imdb.com/title/tt0080297/",
+        "rating": 8.5,
+        "rating_count": 6931,
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "duration": "1979",
+        "type": "Mini",
+        "summary": "In the bleak days of the Cold War, espionage veteran George Smiley is forced out of semi-retirement to uncover a Soviet Agent within MI6's echelons."
+    },
+    "I'm Alan Partridge": {
+        "show_url": "https://www.imdb.com/title/tt0129690/",
+        "rating": 8.5,
+        "rating_count": 16804,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "1997\u20132002",
+        "type": "Full",
+        "summary": "Alan Partridge, a failed television presenter, is now presenting a programme on local radio in Norwich. He desperately tries to revive his broadcasting career."
+    },
+    "The Knick": {
+        "show_url": "https://www.imdb.com/title/tt2937900/",
+        "rating": 8.5,
+        "rating_count": 39589,
+        "genre": [
+            "Drama"
+        ],
+        "duration": "2014\u20132015",
+        "type": "Full",
+        "summary": "A look at the professional and personal lives of the staff at New York's Knickerbocker Hospital during the early part of the twentieth century."
+    },
+    "Detectorists": {
+        "show_url": "https://www.imdb.com/title/tt4082744/",
+        "rating": 8.6,
+        "rating_count": 8290,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "2014\u20132017",
+        "type": "Full",
+        "summary": "The lives of two eccentric metal detectorists, who spend their days plodding along ploughed tracks and open fields, hoping to disturb the tedium by unearthing the fortune of a lifetime."
+    },
+    "K\u00f4kaku kid\u00f4tai: Stand Alone Complex": {
+        "show_url": "https://www.imdb.com/title/tt0346314/",
+        "rating": 8.5,
+        "rating_count": 16317,
+        "genre": [
+            "Animation",
+            "Action",
+            "Crime"
+        ],
+        "duration": "2002\u20132005",
+        "type": "Full",
+        "summary": "The futuristic adventures of a female cyborg counter intelligence agent and her support team."
+    },
+    "American Crime Story": {
+        "show_url": "https://www.imdb.com/title/tt2788432/",
+        "rating": 8.5,
+        "rating_count": 68326,
+        "genre": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2016\u2013 ",
+        "type": "Full",
+        "summary": "An anthology series centered around America's most notorious crimes and criminals."
+    },
+    "Jesus of Nazareth": {
+        "show_url": "https://www.imdb.com/title/tt0075520/",
+        "rating": 8.5,
+        "rating_count": 17786,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "duration": "1977",
+        "type": "Mini",
+        "summary": "Beginning before the Nativity and extending through the Crucifixion and Resurrection, this mini-series brings to life all of the sweeping drama in the life of Jesus, as told by the Gospels."
+    },
+    "Community": {
+        "show_url": "https://www.imdb.com/title/tt1439629/",
+        "rating": 8.5,
+        "rating_count": 175846,
+        "genre": [
+            "Comedy"
+        ],
+        "duration": "2009\u20132015",
+        "type": "Full",
+        "summary": "A suspended lawyer is forced to enroll in a community college with an eclectic staff and student body."
+    },
+    "Spartacus: Blood and Sand": {
+        "show_url": "https://www.imdb.com/title/tt1442449/",
+        "rating": 8.5,
+        "rating_count": 206700,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Biography"
+        ],
+        "duration": "2010\u20132013",
+        "type": "Full",
+        "summary": "The life of Spartacus, the gladiator who lead a rebellion against the Romans. From his time as an ally of the Romans, to his betrayal and becoming a gladiator, to the rebellion he leads and its ultimate outcome."
+    },
+    "Ash vs Evil Dead": {
+        "show_url": "https://www.imdb.com/title/tt4189022/",
+        "rating": 8.5,
+        "rating_count": 57564,
+        "genre": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "duration": "2015\u20132018",
+        "type": "Full",
+        "summary": "Ash has spent the last thirty years avoiding responsibility, maturity, and the terrors of the Evil Dead until a Deadite plague threatens to destroy all of mankind and Ash becomes mankind's only hope."
+    },
+    "Delhi Crime": {
+        "show_url": "https://www.imdb.com/title/tt9398466/",
+        "rating": 8.6,
+        "rating_count": 5396,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2019\u2013 ",
+        "type": "Full",
+        "summary": "Based on the Nirbhaya case, Delhi Crime follows the Delhi Police investigation into the finding of the men who perpetrated this crime."
+    },
+    "This Is England '90": {
+        "show_url": "https://www.imdb.com/title/tt2528254/",
+        "rating": 8.5,
+        "rating_count": 5550,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2015",
+        "type": "Mini",
+        "summary": "The year is 1990, the rave scene has just entered England. The sound of the Stone roses lurks toward Shaun and the gang. This means that Woody and Lol are living in a domestic bliss, they are happy again. But this year will see huge changes in everyone. This is the year 1990. This is England."
+    },
+    "Wentworth": {
+        "show_url": "https://www.imdb.com/title/tt2433738/",
+        "rating": 8.6,
+        "rating_count": 14510,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2013\u2013 ",
+        "type": "Full",
+        "summary": "Bea Smith is locked up while awaiting trial for the attempted murder of her husband and must learn how life works in prison."
+    },
+    "Merl\u00ed": {
+        "show_url": "https://www.imdb.com/title/tt4580372/",
+        "rating": 8.6,
+        "rating_count": 5046,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "duration": "2015\u20132018",
+        "type": "Full",
+        "summary": "TV series about a high school philosophy teacher, Merl\u00ed, who teaches in an original way, and about the students of his class, including his own son, and the relationship, friendship, love, and problems among the students of the class."
+    },
+    "Rur\u00f4ni Kenshin -Meiji kenkaku romantan": {
+        "show_url": "https://www.imdb.com/title/tt0182629/",
+        "rating": 8.5,
+        "rating_count": 15809,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "1996\u20131999",
+        "type": "Full",
+        "summary": "The adventures of a young wandering swordsman who stumbles upon a struggling martial arts school in Meiji era Japan."
+    },
+    "X-Men": {
+        "show_url": "https://www.imdb.com/title/tt0103584/",
+        "rating": 8.5,
+        "rating_count": 33925,
+        "genre": [
+            "Animation",
+            "Action",
+            "Family"
+        ],
+        "duration": "1992\u20131997",
+        "type": "Full",
+        "summary": "A team of mutant superheroes fight for justice and human acceptance in the Marvel Comics universe."
+    },
+    "Scener ur ett \u00e4ktenskap": {
+        "show_url": "https://www.imdb.com/title/tt0070644/",
+        "rating": 8.5,
+        "rating_count": 13847,
+        "genre": [
+            "Drama"
+        ],
+        "duration": "1973",
+        "type": "Mini",
+        "summary": "Ten years within the marriage of Marianne and Johan."
+    },
+    "The Venture Bros.": {
+        "show_url": "https://www.imdb.com/title/tt0417373/",
+        "rating": 8.5,
+        "rating_count": 22038,
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "duration": "2003\u2013 ",
+        "type": "Full",
+        "summary": "The bizarre animated escapades of pseudo-heroic scientist Dr. Rusty Venture, his competent, high strung bodyguard, and his two over-enthusiastic sons."
+    },
+    "Unsere M\u00fctter, unsere V\u00e4ter": {
+        "show_url": "https://www.imdb.com/title/tt1883092/",
+        "rating": 8.5,
+        "rating_count": 21932,
+        "genre": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "duration": "2013",
+        "type": "Mini",
+        "summary": "Five friends go out to war and promise each other to be back for Christmas."
+    },
+    "Behzat \u00c7.: Bir Ankara Polisiyesi": {
+        "show_url": "https://www.imdb.com/title/tt1795096/",
+        "rating": 8.7,
+        "rating_count": 23574,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "2010\u20132019",
+        "type": "Full",
+        "summary": "Centered around a personally troubled, officially discredited police chief and his inharmonious police team in Ankara Police Force. Even though the show usually focuses on murders and other...See full summary\u00a0\u00bb"
+    },
+    "Happy Valley": {
+        "show_url": "https://www.imdb.com/title/tt3428912/",
+        "rating": 8.5,
+        "rating_count": 28413,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2014\u2013 ",
+        "type": "Full",
+        "summary": "Catherine Cawood is the sergeant on duty when flustered and nervous accountant Kevin Weatherill comes into her West Yorkshire station to report a crime."
+    },
+    "The Daily Show": {
+        "show_url": "https://www.imdb.com/title/tt0115147/",
+        "rating": 8.4,
+        "rating_count": 42426,
+        "genre": [
+            "Comedy",
+            "News",
+            "Talk-Show"
+        ],
+        "duration": "1996\u2013 ",
+        "type": "Full",
+        "summary": "Providing comedy/news in the tradition of TV Nation and SNL's Weekend Update, Comedy Central's Daily Show reports on the foibles and of the real world with a satirical edge. In addition to ...See full summary\u00a0\u00bb"
+    },
+    "Samurai Jack": {
+        "show_url": "https://www.imdb.com/title/tt0278238/",
+        "rating": 8.4,
+        "rating_count": 40138,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "2001\u20132017",
+        "type": "Full",
+        "summary": "A samurai sent through time fights to return home and save the world."
+    },
+    "The Legend of Korra": {
+        "show_url": "https://www.imdb.com/title/tt1695360/",
+        "rating": 8.5,
+        "rating_count": 86432,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "2012\u20132014",
+        "type": "Full",
+        "summary": "Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds."
+    },
+    "Taboo": {
+        "show_url": "https://www.imdb.com/title/tt3647998/",
+        "rating": 8.5,
+        "rating_count": 101701,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "duration": "2017\u2013 ",
+        "type": "Full",
+        "summary": "Adventurer James Keziah Delaney returns to London during the War of 1812 to rebuild his late father's shipping empire. However, both the government and his biggest competitor want his inheritance at any cost - even murder."
+    },
+    "The Colbert Report": {
+        "show_url": "https://www.imdb.com/title/tt0458254/",
+        "rating": 8.4,
+        "rating_count": 36931,
+        "genre": [
+            "Comedy",
+            "News",
+            "Talk-Show"
+        ],
+        "duration": "2005\u20132015",
+        "type": "Full",
+        "summary": "Satirical newscaster Stephen Colbert provides humorous commentary on the big issues going on in the United States and the rest of the world, with his larger-than-life ego and overly-patriotic spirit along with him every step of the way."
+    },
+    "Garth Marenghi's Darkplace": {
+        "show_url": "https://www.imdb.com/title/tt0397150/",
+        "rating": 8.5,
+        "rating_count": 14543,
+        "genre": [
+            "Comedy",
+            "Fantasy",
+            "Horror"
+        ],
+        "duration": "2004",
+        "type": "Mini",
+        "summary": "This parody series is an unearthed 80s horror/drama, complete with poor production values, awful dialogue and hilarious violence. The series is set in a Hospital in Romford, which is situated over the gates of Hell."
+    },
+    "Carniv\u00e0le": {
+        "show_url": "https://www.imdb.com/title/tt0319969/",
+        "rating": 8.5,
+        "rating_count": 40463,
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Mystery"
+        ],
+        "duration": "2003\u20132005",
+        "type": "Full",
+        "summary": "During the Great Depression, an Oklahoma farm boy and a charismatic minister learn that they are key players in a proxy war being fought between Heaven and Hell."
+    },
+    "Critical Role": {
+        "show_url": "https://www.imdb.com/title/tt4834232/",
+        "rating": 9.3,
+        "rating_count": 6096,
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "duration": "2015\u2013 ",
+        "type": "Full",
+        "summary": "A live weekly show, where a band of professional voice actors improvise, role-play and roll their way through an epic Dungeons & Dragons campaign."
+    },
+    "One Piece: Wan p\u00eesu": {
+        "show_url": "https://www.imdb.com/title/tt0388629/",
+        "rating": 8.6,
+        "rating_count": 56786,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": "1999\u2013 ",
+        "type": "Full",
+        "summary": "Follows the adventures of Monkey D. Luffy and his friends in order to find the greatest treasure ever left by the legendary Pirate, Gol D Roger. The famous mystery treasure named \"One Piece\"."
+    },
+    "Police Squad!": {
+        "show_url": "https://www.imdb.com/title/tt0083466/",
+        "rating": 8.4,
+        "rating_count": 14155,
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "duration": "1982",
+        "type": "Full",
+        "summary": "Sight gags and non-sequiturs dominate this spoof of police dramas. The six episodes formed the basis for the very successful \"Naked Gun\" film franchise."
+    },
+    "Narcos: Mexico": {
+        "show_url": "https://www.imdb.com/title/tt8714904/",
+        "rating": 8.4,
+        "rating_count": 34859,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "duration": "2018\u2013 ",
+        "type": "Full",
+        "summary": "The rise of the Guadalajara Cartel as an American DEA agent learns the danger of targeting narcos in Mexico."
+    },
+    "After Life": {
+        "show_url": "https://www.imdb.com/title/tt8398600/",
+        "rating": 8.5,
+        "rating_count": 39065,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2019\u2013 ",
+        "type": "Full",
+        "summary": "After Tony's wife dies unexpectedly, his nice-guy persona is altered into an impulsive, devil-may-care attitude taking his old world by storm."
+    },
+    "Utopia": {
+        "show_url": "https://www.imdb.com/title/tt2384811/",
+        "rating": 8.4,
+        "rating_count": 35783,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "duration": "2013\u20132014",
+        "type": "Full",
+        "summary": "After a group of people, who meet online, discover a bizarre graphic novel which seems to hold mysterious answers, they find themselves being tracked down by a merciless organization known merely as 'The Network'."
+    },
+    "Suits": {
+        "show_url": "https://www.imdb.com/title/tt1632701/",
+        "rating": 8.5,
+        "rating_count": 329149,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2011\u2013 ",
+        "type": "Full",
+        "summary": "On the run from a drug deal gone bad, Mike Ross, a brilliant college dropout, finds himself a job working with Harvey Specter, one of New York City's best lawyers."
+    },
+    "The Angry Video Game Nerd": {
+        "show_url": "https://www.imdb.com/title/tt1230180/",
+        "rating": 8.4,
+        "rating_count": 13162,
+        "genre": [
+            "Comedy",
+            "Talk-Show"
+        ],
+        "duration": "2004\u2013 ",
+        "type": "Full",
+        "summary": "A foul-mouthed nerd reviews bad video games."
+    },
+    "Borgen": {
+        "show_url": "https://www.imdb.com/title/tt1526318/",
+        "rating": 8.4,
+        "rating_count": 15103,
+        "genre": [
+            "Drama"
+        ],
+        "duration": "2010\u20132013",
+        "type": "Full",
+        "summary": "A political drama about a prime minister's rise to power, and how power changes a prime minister."
+    },
+    "The Bugs Bunny/Looney Tunes Comedy Hour": {
+        "show_url": "https://www.imdb.com/title/tt0088491/",
+        "rating": 8.4,
+        "rating_count": 14975,
+        "genre": [
+            "Animation",
+            "Family",
+            "Comedy"
+        ],
+        "duration": "1985\u20131986",
+        "type": "Full",
+        "summary": "A Saturday morning series, collecting of some of the most popular classic cartoons from the Looney Tunes catalogue."
+    },
+    "Inside No. 9": {
+        "show_url": "https://www.imdb.com/title/tt2674806/",
+        "rating": 8.4,
+        "rating_count": 8691,
+        "genre": [
+            "Comedy",
+            "Horror"
+        ],
+        "duration": "2014\u2013 ",
+        "type": "Full",
+        "summary": "Anthology series which mixes dark humor with genres like crime, horror or drama. The show invites viewers into some very different No.9s, where the ordinary and mundane rub shoulders with the extraordinary and macabre."
+    },
+    "Entourage": {
+        "show_url": "https://www.imdb.com/title/tt0387199/",
+        "rating": 8.5,
+        "rating_count": 152399,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": "2004\u20132011",
+        "type": "Full",
+        "summary": "Film star Vince Chase navigates the vapid terrain of Los Angeles with a close circle of friends and his trusty agent."
+    },
+    "Pose": {
+        "show_url": "https://www.imdb.com/title/tt7562112/",
+        "rating": 8.5,
+        "rating_count": 9409,
+        "genre": [
+            "Drama"
+        ],
+        "duration": "2018\u2013 ",
+        "type": "Full",
+        "summary": "Pose is set in the world of 1987 and \"looks at the juxtaposition of several segments of life and society in New York: the rise of the luxury universe, the downtown social and literary scene and the ball culture world.\""
+    },
+    "Inside Look: The People v. O.J. Simpson - American Crime Story": {
+        "show_url": "https://www.imdb.com/title/tt6205862/",
+        "rating": 8.4,
+        "rating_count": 19702,
+        "genre": [
+            "Documentary",
+            "Short"
+        ],
+        "duration": "2016",
+        "type": "Full",
+        "summary": "Inside the series of the same name."
+    },
+    "State of Play": {
+        "show_url": "https://www.imdb.com/title/tt0362192/",
+        "rating": 8.4,
+        "rating_count": 8721,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": "2003",
+        "type": "Mini",
+        "summary": "In London, a naive young politician becomes a suspect when his female assistant and mistress is killed in a suspicious accident. The politician's investigative journalist friend and his team uncover a government conspiracy."
+    },
+    "Modern Family": {
+        "show_url": "https://www.imdb.com/title/tt1442437/",
+        "rating": 8.4,
+        "rating_count": 314622,
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "duration": "2009\u2013 ",
+        "type": "Full",
+        "summary": "Three different but related families face trials and tribulations in their own uniquely comedic ways."
+    },
+    "The Muppet Show": {
+        "show_url": "https://www.imdb.com/title/tt0074028/",
+        "rating": 8.4,
+        "rating_count": 21060,
+        "genre": [
+            "Comedy",
+            "Family",
+            "Music"
+        ],
+        "duration": "1976\u20131981",
+        "type": "Full",
+        "summary": "Kermit the Frog and his fellow Muppets put on a vaudeville show at their theatre, bringing in a famous celebrity to help out for each episode."
+    },
+    "The Expanse": {
+        "show_url": "https://www.imdb.com/title/tt3230854/",
+        "rating": 8.4,
+        "rating_count": 71136,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "duration": "2015\u2013 ",
+        "type": "Full",
+        "summary": "A police detective in the asteroid belt, the first officer of an interplanetary ice freighter and an earth-bound United Nations executive slowly discover a vast conspiracy that threatens the Earth's rebellious colony on the asteroid belt."
+    },
+    "Brooklyn Nine-Nine": {
+        "show_url": "https://www.imdb.com/title/tt2467372/",
+        "rating": 8.4,
+        "rating_count": 155436,
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "duration": "2013\u2013 ",
+        "type": "Full",
+        "summary": "Jake Peralta, an immature, but talented N.Y.P.D. detective in Brooklyn's 99th Precinct, comes into immediate conflict with his new commanding officer, the serious and stern Captain Ray Holt."
+    }
+}
