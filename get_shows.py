@@ -1,7 +1,5 @@
 import requests
 from bs4 import BeautifulSoup as bs
-import pandas as pd
-from pprint import pprint as pp
 
 def get_show_details(show_url):
 	show_details = {}
