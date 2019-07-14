@@ -1,5 +1,5 @@
 # IMDB-Scraper-TV-shows
-My list of TV shows to watch in future based on IMDB rating.
+List of TV shows to watch in future based on IMDB rating.
 
 Here is a sample TV-show details scraped :
 
@@ -15,3 +15,7 @@ Here is a sample TV-show details scraped :
                              "his family's future.",
                   'type': 'Full'},
 ```
+
+## Run instruction
+
+Run as `python3 get_shows.py`
