@@ -1,5 +1,5 @@
 # Top TV shows scraper
-This repository is for scraping the top 250 TV shows based on IMDB rating. Here is a sample TV-show details scraped :
+This repository is for scraping the top 250 TV shows based on IMDB rating listed [here](https://www.imdb.com/chart/toptv/). Here is a sample TV-show details scraped :
 
 ```
 'Breaking Bad': {'duration': '2008–2013',
