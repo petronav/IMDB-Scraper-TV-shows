@@ -1,7 +1,5 @@
 # IMDB-Scraper-TV-shows
-List of TV shows to watch in future based on IMDB rating.
-
-Here is a sample TV-show details scraped :
+This repository is for scraping the top 250 TV shows based on IMDB rating. Here is a sample TV-show details scraped :
 
 ```
 'Breaking Bad': {'duration': '2008–2013',
@@ -22,5 +20,7 @@ Run as `python3 get_shows.py` to save the json.
 Run as `python3 visualize.py` to visualize the heatmap of related genres.
 
 ### Heatmap plot
+
+From the top 250 TV-series genre types, here is a cross fold heatmap for all the genres in all the TV-shows :
 
 ![heatmap](seaborn_cross_fold_plot.png)
