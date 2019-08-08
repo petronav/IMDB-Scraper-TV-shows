@@ -18,4 +18,9 @@ Here is a sample TV-show details scraped :
 
 ## Run instruction
 
-Run as `python3 get_shows.py`
+Run as `python3 get_shows.py` to save the json.
+Run as `python3 visualize.py` to visualize the heatmap of related genres.
+
+### Heatmap plot
+
+![heatmap](seaborn_cross_fold_plot.png)
