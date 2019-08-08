@@ -1,4 +1,4 @@
-# IMDB-Scraper-TV-shows
+# Top TV shows scraper
 This repository is for scraping the top 250 TV shows based on IMDB rating. Here is a sample TV-show details scraped :
 
 ```
